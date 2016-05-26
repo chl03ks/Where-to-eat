@@ -1,0 +1,19 @@
+{
+  "name": "where-to-eat",
+  "version": "1.0.0",
+  "description": "Slack Bot to decide where to eat base on your location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvsdan/Where-to-eat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvsdan/Where-to-eat/issues"
+  },
+  "homepage": "https://github.com/gvsdan/Where-to-eat#readme"
+}
